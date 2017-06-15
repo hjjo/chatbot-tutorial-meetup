@@ -1,0 +1,25 @@
+No,NegativeAnswer
+Cancel it,NegativeAnswer
+I want to stop it,NegativeAnswer
+I want to restart talking,NegativeAnswer
+I don't need it,NegativeAnswer
+yes,PositiveAnswer
+ok,PositiveAnswer
+perfect,PositiveAnswer
+y,PositiveAnswer
+why not,PositiveAnswer
+sure,PositiveAnswer
+of course,PositiveAnswer
+absolutely,PositiveAnswer
+I confirm,PositiveAnswer
+I'd like to book a room,Reservation
+resrevation,Reservation
+Hi can you book the watson room for me?,Reservation
+reservation,Reservation
+Where can I have a meeting?,Reservation
+I want to make reservation for a conference room,Reservation
+Is there a vacant room?,Reservation
+Is a conference room available?,Reservation
+I'm going to have a meeting,Reservation
+I'd like to book a meeting room,Reservation
+Can I book a room?,Reservation
